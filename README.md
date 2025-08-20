@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="gV3H8as-c-NBU9r9csxRfZn7EOd5jUXJwNPMLYnqCQE" />
     <title>Política de Privacidade - NM</title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; margin: 2em; max-width: 800px; }
